@@ -1,0 +1,88 @@
+# ==============================
+# Python cache & compiled files
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Virtual Environments
+# ==============================
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==============================
+# IDEs & Editors
+# ==============================
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+*.swp
+*.swo
+
+# ==============================
+# Operating System files
+# ==============================
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ==============================
+# Logs & temporary files
+# ==============================
+*.log
+*.tmp
+*.bak
+*.old
+*.orig
+
+# ==============================
+# Python build / distribution
+# ==============================
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# ==============================
+# Testing / coverage
+# ==============================
+.coverage
+.coverage.*
+.cache/
+pytest_cache/
+nosetests.xml
+coverage.xml
+htmlcov/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# Environment variables
+# ==============================
+.env
+.env.local
+.env.*.local
+
+# ==============================
+# Tkinter / GUI specific
+# ==============================
+*.spec
+
+# ==============================
+# Database / local storage (if added later)
+# ==============================
+*.db
+*.sqlite3
